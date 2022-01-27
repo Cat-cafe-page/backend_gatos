@@ -1,0 +1,9 @@
+mongodb+srv://danielaM:MongoDB2022@gatosdb.wcpq1.mongodb.net/gatosDB?retryWrites=true&w=majority
+
+mongodb://danielaM:MongoDB2022@localhost:27017/gatosDB
+
+git init
+git status
+git add .
+git commit -m ""
+git push origin rama
