@@ -2,4 +2,4 @@
 Microservice with framework springboot for control of adopted cats
 
 # Run in local
-./mvnw spring-boot🇧🇳
+./mvnw spring-boot:run
