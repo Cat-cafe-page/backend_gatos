@@ -6,3 +6,5 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 public interface GatosRepository extends MongoRepository<Gatos, String>{
     List<Gatos> findByAñoAdopcion(String añoAdopcion);
 }
+
+
